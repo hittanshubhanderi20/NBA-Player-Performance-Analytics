@@ -100,8 +100,8 @@ NBA player stats analysis/
 **Hittanshu Bhanderi**
 - Master of Professional Studies in Analytics, Northeastern University
 - Email: bhanderi.h@northeastern.edu
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: https://www.linkedin.com/in/hittanshubhanderi/
+- GitHub: https://github.com/hittanshubhanderi20
 
 ---
 
